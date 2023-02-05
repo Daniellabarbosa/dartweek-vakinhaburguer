@@ -1,16 +1,10 @@
-# dw23_delivery_app
+# dartweek-vakinhaburguer
 
-A new Flutter project.
+🍔App mobile em Flutter feito durante o evento Dart Week oferecido pela Academia do Flutter onde desenvolvemos um aplicativo de delivery.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![dw23](https://user-images.githubusercontent.com/74657202/216848808-b7085465-dfca-402b-9605-ba96afa994dd.png)
 
-A few resources to get you started if this is your first Flutter project:
+designer disponilibizado pela Academia do Flutter no figma:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/file/02eLp1LEMaZNbolCNBSyKA/Delivery-App?node-id=0%3A1&t=YthiDKc9KNgCPZxA-1
